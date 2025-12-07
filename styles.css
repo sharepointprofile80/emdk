@@ -100,7 +100,7 @@ main{
     cursor: pointer;
     color: white;
  }
-@media screen and (max-width:768px) {
+@media screen and (max-width:992px) {
     .menu-toggle{
         display: block;
         position: absolute;
